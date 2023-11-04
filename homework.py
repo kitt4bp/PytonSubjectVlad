@@ -1,1 +1,1 @@
-print("hi,teacher!")   #в мене вибиває зовсім іншу програму
+print("hi,teacher!")
